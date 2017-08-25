@@ -1,2 +1,1 @@
-# homeloans
-This belongs to Homeloans
+We will describe about our application and application setup for new developers
